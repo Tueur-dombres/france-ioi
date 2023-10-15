@@ -2,7 +2,6 @@ nbArticlesAchetes, nbArticlesScannes = map(int, input().split())
 achats = list(map(int, input().split()))
 scans = list(map(int, input().split()))
 
-
 i_achats = i_scans = 0
 retour = set()
 
